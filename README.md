@@ -10,7 +10,7 @@ I like Movies, TV Shows, Gym, Running, Training ML Models and Research 🖥️
 
 ### The vibe
 
-:panda_face: Relax, write some code, be research obessed, and enjoy life 🍵
+:panda_face: Relax, write some code, be research obsessed, and enjoy life 🍵
 
 ## Languages and Tools
 
