@@ -16,7 +16,7 @@ I like Movies, TV Shows, Gym, Running, Training ML Models and Research 🖥️
 
 <p align="left">
   <a href="https://github.com/DiegoFloresWenHao">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,github,vscode,pycharm,bash,postgres,openai">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,github,vscode,pycharm,bash,chromadb,chatgpt">
   </a>
 </p>
 
